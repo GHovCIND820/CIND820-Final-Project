@@ -5,12 +5,10 @@
 * [Project Abstract]
 * [Project Literature Review]
 * [Initial Results]
-        [Initial_Code.ipynb]
-        [CIND820 Project Initial Results.pdf]
+* [datasets]
+     
 
-datasets;
-  Automobile_Data.csv
-  Cleaned_Car_Data.csv
+
 
 
 
