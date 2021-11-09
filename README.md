@@ -5,17 +5,8 @@
 * [Project Abstract]
 * [Project Literature Review]
 * [Initial Results]
-
-
-Project Abstract
-
-Project Literature Review
-
-Project Initial Results
-
-Initial Results; 
-  Initial_Code.ipynb
-  CIND820 Project Initial Results.pdf
+        [Initial_Code.ipynb]
+        [CIND820 Project Initial Results.pdf]
 
 datasets;
   Automobile_Data.csv
