@@ -2,9 +2,9 @@
 
 
 ## Table of contents
-* [Project Abstract](#Project Abstract)
-* [Project Literature Review](#Project Literature Review)
-* [Initial Results](#Initial Results)
+* [Project Abstract]
+* [Project Literature Review]
+* [Initial Results]
 
 
 Project Abstract
