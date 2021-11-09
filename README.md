@@ -8,7 +8,9 @@ Project Literature Review
 
 Project Initial Results
 
-Project Initial Code
+Initial Results; 
+  Initial_Code.ipynb
+  CIND820 Project Initial Results.pdf
 
 datasets;
   Automobile_Data.csv
