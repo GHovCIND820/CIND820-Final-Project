@@ -2,12 +2,10 @@
 
 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Project Abstract](#Project Abstract)
+* [Project Literature Review](#Project Literature Review)
+* [Initial Results](#Initial Results)
 
-
-Repository Contents
 
 Project Abstract
 
