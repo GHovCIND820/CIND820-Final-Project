@@ -1,4 +1,4 @@
-# CIND820-Final-Project
+# CIND820 Final Project
 
 
 ## Table of contents
