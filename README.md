@@ -1,5 +1,12 @@
 # CIND820-Final-Project
 
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+
 Repository Contents
 
 Project Abstract
